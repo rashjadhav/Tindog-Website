@@ -1,0 +1,123 @@
+/* first section */
+
+#title{
+    color: white;
+    background-color: #ff4c68;
+   
+}
+
+
+.container-fluid{
+   padding: 3% 15%;
+}
+
+h1{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    
+}
+
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2rem;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.navbar{
+    padding: 0 0 1rem;
+}
+.firstimage{
+    transform: rotate(20deg);
+    /* margin-right: 30%; */
+    width: 17%;
+    height: 60%;
+    position: absolute;
+   
+   
+}
+
+.icon{
+    margin-right: 5px;
+}
+
+
+/* Second section */
+
+#features{
+    /* margin: 7% 13%; */
+    padding: 9% 13%;
+    position: relative;
+    z-index: 1;
+    background-color: white;
+}
+.secondfont{
+    width: 40px;
+    height: 30px;
+    color:red;
+
+}
+.secondrowalign{
+    text-align: center;
+  
+}
+
+/* Third Section */
+
+#testimonials {
+    background-color: #ff4c68;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    line-height: 1.5;
+}
+#press{
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 3%;
+    
+   
+}
+
+.thirdsecdog{
+    border-radius: 100%;
+    width: 200px;
+    margin: 5%;
+}
+.names{
+   width: 250px;
+}
+
+/* Fourth section pricing */
+
+#pricing{
+    text-align: center;
+    margin: 5% 15%;
+}
+.price{
+    margin-top: 7%;
+}
+
+/* last cta and footer Section */
+
+#cta {
+    text-align: center;
+    background-color: #ff4c68;
+    padding-top: 2%;
+    color: white;
+    line-height: 1.5;
+   
+   
+}
+
+.lastbutton{
+    margin: 2% 1%;
+}
+
+#footer{
+    text-align: center;
+    background-color: #ff4c68;
+    padding-bottom: 2%;
+    color: white;
+}
