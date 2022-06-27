@@ -31,11 +31,15 @@ h1{
 .firstimage{
     transform: rotate(20deg);
     margin-right: 30%;
-    width: 17%;
-    height: 60%;
-    position: absolute;
+    width: 30%;
+    height: 100%;
+    padding-top: 2rem;
+    /* position: absolute; */
    
    
+}
+.firstredsection{
+    padding-bottom: 2rem;
 }
 
 .icon{
